@@ -1,4 +1,4 @@
-# E-Commerence Back End
+# E-Commerce Back End
 
   <a href="https://opensource.org/licenses/MIT" alt="License">
         <img src="https://img.shields.io/badge/license-MIT-brightgreen" /></a>
